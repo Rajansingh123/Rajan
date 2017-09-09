@@ -9,3 +9,4 @@
 ];
 ```
 console.table(bakeryes);
+![capture](https://user-images.githubusercontent.com/31773886/30236050-b3f021a0-94df-11e7-8dba-4240343c8f49.PNG)
